@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1763540885408",
+    "from": "wgSQ__pUJaQjX-GLAAAd",
+    "fromUsername": "ana",
+    "to": "jose",
+    "message": "holaaa",
+    "timestamp": "2025-11-19T08:28:05.408Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763541112801",
+    "from": "6p3APch5PJVp_u0qAAAh",
+    "fromUsername": "eddy",
+    "to": "ana",
+    "message": "holaaaaa🔥",
+    "timestamp": "2025-11-19T08:31:52.801Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763541134079",
+    "from": "GCbHAGlFTZGFuQkpAAAl",
+    "fromUsername": "ana",
+    "to": "eddy",
+    "message": "que hayyyyyyy",
+    "timestamp": "2025-11-19T08:32:14.079Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763541163643",
+    "from": "T15f_k5dPwpKfTkxAAAp",
+    "fromUsername": "eddy",
+    "to": "ana",
+    "message": "todo bien",
+    "timestamp": "2025-11-19T08:32:43.643Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763570655572",
+    "from": "vHFr5NglBg21OzFUAAAj",
+    "fromUsername": "ana",
+    "to": "eddy",
+    "message": "holaaaa",
+    "timestamp": "2025-11-19T16:44:15.573Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763570661841",
+    "from": "Lvveg5ABBi2KOeWRAAAl",
+    "fromUsername": "eddy",
+    "to": "ana",
+    "message": "que hay?",
+    "timestamp": "2025-11-19T16:44:21.841Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763570752604",
+    "groupId": "group_1763570746470",
+    "from": "vHFr5NglBg21OzFUAAAj",
+    "fromUsername": "ana",
+    "message": "que fue?",
+    "timestamp": "2025-11-19T16:45:52.604Z",
+    "type": "group"
+  },
+  {
+    "id": "1763570759943",
+    "groupId": "group_1763570746470",
+    "from": "Lvveg5ABBi2KOeWRAAAl",
+    "fromUsername": "eddy",
+    "message": "nada jaksajabfkjabf",
+    "timestamp": "2025-11-19T16:45:59.943Z",
+    "type": "group"
+  },
+  {
+    "id": "1763570777128",
+    "groupId": "group_1763570746470",
+    "from": "vHFr5NglBg21OzFUAAAj",
+    "fromUsername": "ana",
+    "message": "👎",
+    "timestamp": "2025-11-19T16:46:17.128Z",
+    "type": "group"
+  },
+  {
+    "id": "1763583331438",
+    "from": "X2o6MqdWBdCnkXsdAAAX",
+    "fromUsername": "ana",
+    "to": "eddy",
+    "message": "holaaaaa",
+    "timestamp": "2025-11-19T20:15:31.440Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763583334815",
+    "from": "d4cLY8WkuhSqVxEWAAAb",
+    "fromUsername": "eddy",
+    "to": "ana",
+    "message": "kfkwakgfkiagf",
+    "timestamp": "2025-11-19T20:15:34.815Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763583355665",
+    "from": "d4cLY8WkuhSqVxEWAAAb",
+    "fromUsername": "eddy",
+    "to": "ana",
+    "message": "jkjbgfjkgukfkuwa",
+    "timestamp": "2025-11-19T20:15:55.665Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763583361605",
+    "from": "d4cLY8WkuhSqVxEWAAAb",
+    "fromUsername": "eddy",
+    "to": "ana",
+    "message": "hagiawilgawg",
+    "timestamp": "2025-11-19T20:16:01.605Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763583811565",
+    "from": "OjLr53ZiGBRsYQ5zAAAl",
+    "fromUsername": "ana",
+    "to": "eddy",
+    "message": "holaaaaa",
+    "timestamp": "2025-11-19T20:23:31.565Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763583820326",
+    "from": "OjLr53ZiGBRsYQ5zAAAl",
+    "fromUsername": "ana",
+    "to": "Luisa",
+    "message": "segsegeseg",
+    "timestamp": "2025-11-19T20:23:40.326Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763583920243",
+    "from": "yRcmllJ3S7FEiqvfAAAn",
+    "fromUsername": "eddy",
+    "to": "ana",
+    "message": "sdbkebanlagw",
+    "timestamp": "2025-11-19T20:25:20.243Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763594229143",
+    "from": "ghqWUglMUIaOHmesAABD",
+    "fromUsername": "ana",
+    "to": "Daniela",
+    "message": "lihuiguihgoigophp",
+    "timestamp": "2025-11-19T23:17:09.145Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763594276065",
+    "from": "ghqWUglMUIaOHmesAABD",
+    "fromUsername": "ana",
+    "to": "eduardo",
+    "message": "jbvjkvjkvkv",
+    "timestamp": "2025-11-19T23:17:56.065Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763594806072",
+    "from": "_1PGbJaXWcnPNt1gAABF",
+    "fromUsername": "ana",
+    "to": "Maria",
+    "message": "khjgiokhoh",
+    "timestamp": "2025-11-19T23:26:46.072Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763600522779",
+    "groupId": "group_1763594834380",
+    "from": "zP97760-YscdhZpuAAAF",
+    "fromUsername": "ana",
+    "message": "erhrheh",
+    "timestamp": "2025-11-20T01:02:02.779Z",
+    "type": "group"
+  },
+  {
+    "id": "1763604337092",
+    "from": "PJyODyqYWDT694CrAAAR",
+    "fromUsername": "ana",
+    "to": "Ander",
+    "message": "jkbgkhl",
+    "timestamp": "2025-11-20T02:05:37.092Z",
+    "type": "private",
+    "read": false
+  },
+  {
+    "id": "1763604721574",
+    "from": "uW4k3PxjmzeiLjl2AAAX",
+    "fromUsername": "ana",
+    "to": "Juana",
+    "message": "hmvhjfgkvkvmv",
+    "timestamp": "2025-11-20T02:12:01.574Z",
+    "type": "private",
+    "read": false
+  }
+]

@@ -334,7 +334,7 @@ io.on("connection", (socket) => {
     const existingUserIndex = users.findIndex((u) => u.username === username);
 
     if (existingUserIndex !== -1) {
-      users[existingUserIndex].online = true;
+      // users[existingUserIndex].online = true;
       users[existingUserIndex].socketId = socket.id;
       users[existingUserIndex].lastSeen = new Date().toISOString();
       users[existingUserIndex].avatar = avatar || "👤";
@@ -611,3 +611,4 @@ process.on("uncaughtException", (error) => {
 process.on("unhandledRejection", (reason, promise) => {
   console.error("❌ Promesa rechazada no manejada:", reason);
 });
+

@@ -232,12 +232,18 @@
           )?.value || "😎";
 
         if (username.length < 3) {
-          alert("❌ El nombre de usuario debe tener al menos 3 caracteres");
+          // alert("❌ El nombre de usuario debe tener al menos 3 caracteres");
+          showKiosNotification(
+            "❌ El nombre de usuario debe tener al menos 3 caracteres"
+          );
           return;
         }
 
         if (password.length < 4) {
-          alert("❌ La contraseña debe tener al menos 4 caracteres");
+          // alert("❌ La contraseña debe tener al menos 4 caracteres");
+          showKiosNotification(
+            "❌ La contraseña debe tener al menos 4 caracteres"
+          );
           return;
         }
 
@@ -250,13 +256,16 @@
 
         socket.once("register-response", (data) => {
           if (data.success) {
-            alert("✅ ¡Registro exitoso! Ahora puedes iniciar sesión.");
+            showKiosNotification(" ¡Registro exitoso!");
             loginForm.style.display = "block";
             registerForm.style.display = "none";
             loginHeader.textContent = "Kios Chat";
+            loginContainer.style.maxWidth = "450px";
             registerForm.reset();
           } else {
-            alert("❌ " + (data.message || "Error al registrar"));
+            showKiosNotification(
+              "❌ " + (data.message || "Error al registrar")
+            );
           }
         });
       });
